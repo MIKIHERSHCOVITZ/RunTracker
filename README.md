@@ -69,6 +69,7 @@ RunTracker/
 ## Installation
 
 Note: The app runs on Azure, if you want to run it locally, please change the api's to match the local settings.
+
 Replace 'https://assignment1-sophie-miki-omer.azurewebsites.net' with 'http://localhost:7071'.
 
 1. **Clone the repository:**
