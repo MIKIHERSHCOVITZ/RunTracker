@@ -1,0 +1,35 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual environment
+venv/
+
+# Azure Functions local settings
+local.settings.json
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# React Native
+*.iml
+*.hprof
+*.orig
+*.pyc
+*.gz
+*.log
+.idea/
+.gradle/
+build/
+*/build/
+.expo/
+web-build/
+.expo-shared/
+npm-debug.*
+yarn-debug.log*
+yarn-error.log*
