@@ -94,7 +94,7 @@ npm install
 npm start
 ```
 
-4. **Running the Frontend:**
+4. **Running the Backend:**
 
 ```bash
 cd backend
